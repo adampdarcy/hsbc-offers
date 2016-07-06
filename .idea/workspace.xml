@@ -38,8 +38,8 @@
       <file leaf-file-name="messenger.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/node-wit/examples/messenger.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10619469" vertical-offset="2370" max-vertical-offset="5820">
-              <caret line="162" column="72" selection-start-line="162" selection-start-column="72" selection-end-line="162" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.33274338" vertical-offset="2182" max-vertical-offset="5805">
+              <caret line="158" column="22" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -316,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/node-wit/examples/messenger.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10619469" vertical-offset="2370" max-vertical-offset="5820">
-          <caret line="162" column="72" selection-start-line="162" selection-start-column="72" selection-end-line="162" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.33274338" vertical-offset="2182" max-vertical-offset="5805">
+          <caret line="158" column="22" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
           <folding />
         </state>
       </provider>
