@@ -1,1 +1,1 @@
-web: node index.js
+web: node node_modules/node-wit/examples/messenger.js
